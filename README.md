@@ -1,2 +1,2 @@
-# oibsip_task-2_level-2
-Web Development Task-2 Level2 :- Tribute Page 
+# oibsip_level2-task-2
+Web Development level-2 task-2:- Tribute Page 
